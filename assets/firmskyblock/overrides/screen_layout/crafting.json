@@ -1,0 +1,18 @@
+{
+    "predicates": {
+        "label": {
+            "regex": "Crafting"
+        }
+    },
+    "background": {
+        "texture": "firmskyblock:textures/screen_layout/crafting.png",
+        "x": 0,
+        "y": 0,
+        "width": 176,
+        "height": 166
+    },
+    "containerTitle": {
+        "x": -5000,
+        "y": -5000
+    }
+}

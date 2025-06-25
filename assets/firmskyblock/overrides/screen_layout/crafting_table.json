@@ -1,0 +1,18 @@
+{
+    "predicates": {
+        "label": {
+            "equals": "Craft Item"
+        }
+    },
+    "background": {
+        "texture": "firmskyblock:textures/screen_layout/crafting_table.png",
+        "x": 0,
+        "y": 0,
+        "width": 176,
+        "height": 166
+    },
+    "containerTitle": {
+        "x": -5000,
+        "y": -5000
+    }
+}
