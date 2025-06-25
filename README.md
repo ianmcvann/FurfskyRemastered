@@ -24,7 +24,6 @@ Since many of the menus are not implemented, you may want to use [Default Dark M
 - Skyblock Menu
 
 ## Known Issues
-- Crafting Table UI is not implemented
 - Some menus are not implemented
 
 ## Credits
