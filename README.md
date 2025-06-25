@@ -14,7 +14,7 @@ Almost nothing is implemented, but the pack is still usable and fixes some UIs.
 
 ## Optional but highly recommended
 
-Since many of the menus are not implemented, you may want to use [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode) alongside this pack. I think it looks way better. 
+Since many of the menus are not implemented, you may want to use [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode) alongside this pack. I think it looks way better. If you do, be sure that this pack is still above it. 
 
 ## Includes:
 - Inventory
