@@ -9,11 +9,7 @@ This pack attempts to recreate the blue overlay from FurfSky Reborn 1.8.9 in 1.2
 3. Open Minecraft and go to `Options > Resource Packs`.
 4. Select both packs and click `Done`. **ENSURE THAT FURFSKY 1.21.5 IS BELOW THIS PACK!**
 5. Enjoy!
-
-## Optional but highly recommended
-
-Since many of the menus are not implemented, you may want to use [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode) alongside this pack. I think it looks way better. If you do, be sure that this pack is still above it. 
-
+   
 ## Includes:
 - All Skyblock menus
 - Redone textures for Skyblocker
