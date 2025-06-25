@@ -17,14 +17,12 @@ Almost nothing is implemented, but the pack is still usable and fixes some UIs.
 Since many of the menus are not implemented, you may want to use [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode) alongside this pack. I think it looks way better. If you do, be sure that this pack is still above it. 
 
 ## Includes:
-- Inventory
-- Chocolate Factory
-- Collections Menu(s)
-- Skill Menu(s)
-- Skyblock Menu
+- All Skyblock menus
+- Redone textures for Skyblocker
+- Minecraft UI menus (inventory, crafting, etc.)
 
 ## Known Issues
-- Some menus are not implemented
+- Storge menu is not implemented
 
 ## Credits
 - [FurfSky Reborn](https://furfsky.net/) for the original pack (and all independent artist contributors)
