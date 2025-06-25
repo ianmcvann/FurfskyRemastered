@@ -5,7 +5,7 @@ This pack attempts to recreate the blue overlay from FurfSky Reborn 1.8.9 in 1.2
 Almost nothing is implemented, but the pack is still usable and fixes some UIs. 
 
 ## Installation
-1. Download FurfSky 1.21.5. 
+1. Download FurfSky 1.21.5. (And install the required mods - Firmament and Optifine)
 1. Download this repo. The repo zip is the pack. 
 2. Place both packs in your `resourcepacks` folder.
 3. Open Minecraft and go to `Options > Resource Packs`.
