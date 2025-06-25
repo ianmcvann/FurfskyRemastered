@@ -9,7 +9,7 @@ Almost nothing is implemented, but the pack is still usable and fixes some UIs.
 1. Download this repo. The repo zip is the pack. 
 2. Place both packs in your `resourcepacks` folder.
 3. Open Minecraft and go to `Options > Resource Packs`.
-4. Select both pack and click `Done`. **ENSURE THAT FURFSKY 1.21.5 IS BELOW THIS PACK!**
+4. Select both packs and click `Done`. **ENSURE THAT FURFSKY 1.21.5 IS BELOW THIS PACK!**
 5. Enjoy!
 
 ## Optional but highly recommended
